@@ -1,0 +1,13 @@
+@import url("https://raw.githubusercontent.com/Mono-Code-Scheme/discord/refs/heads/main/themes/base.css");
+
+:root{
+    --accent-1: var(--pink-1);
+    --accent-2: var(--pink-2);
+    --accent-3: var(--pink-3);
+    --accent-4: var(--pink-4);
+    --accent-5: var(--pink-5);
+}
+
+body{
+    --dms-background-image-url: url("https://raw.githubusercontent.com/Mono-Code-Scheme/discord/refs/heads/main/assets/Dms-Pink.png");
+}
